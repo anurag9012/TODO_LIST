@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list_item p {
+  display: inline;
+  margin-right: 1em;
+}
+.list_item {
+  background-color: #e2e8f0;
+  width: fit-content;
+  margin-left: 40vw;
+  margin-bottom: 0.5em;
+}
